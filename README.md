@@ -3,10 +3,9 @@
 A complete web-based solution for medical prescription upload and quotation management system.
 
 ## 📊 Project Details
-- **Task**: PHP Practical Exam - Prescription Upload System
+- **Task**: Prescription Upload System
 - **Time Spent**: 10-12 hours
 - **Completed On**: September 2024
-- **Submitted To**: jobs@xiteb.com
 
 ## 🚀 Features Implemented
 
